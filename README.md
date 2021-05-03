@@ -17,3 +17,8 @@ python3 -m pip install -U pygame --user
 -graphviz:
 
 python3 -m pip install -U graphviz --user
+
+
+-neat:
+
+pip install neat-python
