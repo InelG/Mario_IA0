@@ -7,7 +7,6 @@ Une IA avec apprentissage finissant le niveau 1-1 de Super Mario Bros.
 
 #Requis
 
-Nécessite:
 
 -pygame à installer :
 
